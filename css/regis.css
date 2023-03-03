@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+form {
+  position: relative;
+}
+input {
+  max-width: 250px;
+}
+.registrar {
+  margin-top: 100px;
+  border-style: solid;
+  border-radius: 30px;
+  max-width: 400px;
+}
